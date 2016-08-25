@@ -1,0 +1,14 @@
+layout_spectrum: 0.32139167631976306
+typography_spectrum: 0.5769346279557794
+color:
+  brandStrength: 0.9480066385585815
+  lightness: 0.5634993207640946
+  saturation: 0.01834180625155568
+  rhythmicContrast: 0.844429119490087
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: TerraSage
