@@ -6,9 +6,9 @@ color:
   saturation: 0.01834180625155568
   rhythmicContrast: 0.844429119490087
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: TerraSage
