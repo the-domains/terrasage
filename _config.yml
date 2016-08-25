@@ -1,4 +1,3 @@
-layout_spectrum: 0.32139167631976306
 typography_spectrum: 0.5769346279557794
 color:
   brandStrength: 0.9480066385585815
@@ -6,9 +5,11 @@ color:
   saturation: 0.01834180625155568
   rhythmicContrast: 0.844429119490087
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.32139167631976306
 name: TerraSage
+title: Welcome!
